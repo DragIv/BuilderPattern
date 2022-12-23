@@ -1,1 +1,2 @@
-# BuilderPattern
+# DOPcort
+Папка DOPcort является моей реализацией паттерна строитель
